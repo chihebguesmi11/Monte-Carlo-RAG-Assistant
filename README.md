@@ -1,5 +1,6 @@
 # Monte-Carlo-RAG-Assistant
-A Retrieval-Augmented Generation (RAG) system that answers questions about Monte Carlo simulation using a course PDF and open LLMs.
+A Retrieval-Augmented Generation (RAG) system that answers questions about Monte Carlo simulation using a course PDF and open LLMs. 
+---
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-Enabled-yellowgreen?logo=langchain)](https://www.langchain.com/)
 [![ChromaDB](https://img.shields.io/badge/Chroma-VectorDB-ff69b4?logo=databricks&logoColor=white)](https://www.trychroma.com/)

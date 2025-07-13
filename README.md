@@ -27,11 +27,13 @@ The application allows users to ask questions about Monte Carlo simulation techn
 - Provides clear mathematical explanations without LaTeX or Markdown formatting
 
 ## Project Structure
+\begin{verbatim}
+├── cm_monte_carlo.pdf    # Source PDF document used for retrieval
+├── database.py           # Embedding and indexing pipeline
+├── interface.py          # Streamlit interface for querying
+├── chroma_db/            # Persisted Chroma vector database
+\end{verbatim}
 
-├── cm_monte_carlo.pdf # Source PDF document used for retrieval
-├── database.py # Embedding and indexing pipeline
-├── interface.py # Streamlit interface for querying
-├── chroma_db/ # Persisted Chroma vector database
 
 ## Example Questions
 
